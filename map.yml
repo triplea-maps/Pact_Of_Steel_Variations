@@ -1,0 +1,4 @@
+map_name: pact_of_steel_variations
+games:
+- {game_name: Pact of Steel v3 rules, file_name: POSv3.xml}
+- {game_name: 'Pact of Steel: China Added', file_name: PactOfSteelChina.xml}
